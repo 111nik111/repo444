@@ -11,8 +11,12 @@ public class FeatureClass {
         String str = "This is second changes!";
     }
 
-    public void thirdChange(){
+    public void thirdChange() {
         String str = "This is third changes!";
+    }
+
+    public void forthChange() {
+        String str = "This is forth change!";
     }
 
 }
