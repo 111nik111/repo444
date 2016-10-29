@@ -9,5 +9,6 @@ public class FeatureClass {
 
     public void secondChanges() {
         String str = "This is second changes!";
+    }
 
 }
