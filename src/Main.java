@@ -8,5 +8,6 @@ public class Main {
         String str="I edited this line online!";
     }
     public void changeOnbranch3(){
+        String str="this is change";
     }
 }
