@@ -7,4 +7,6 @@ public class Main {
     public void onlineEditFn(){
         String str="I edited this line online!";
     }
+    public void changeOnbranch3(){
+    }
 }
